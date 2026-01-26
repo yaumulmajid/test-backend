@@ -1,0 +1,13 @@
+com\testbackend\notification\service\EmailService.class
+com\testbackend\notification\common\dto\NotificationRequest$NotificationRequestBuilder.class
+com\testbackend\notification\constant\NotificationStatus.class
+com\testbackend\notification\NotificationServiceApplication.class
+com\testbackend\notification\repository\NotificationRepository.class
+com\testbackend\notification\common\dto\NotificationRequest.class
+com\testbackend\notification\constant\NotificationType.class
+com\testbackend\notification\service\NotificationService.class
+com\testbackend\notification\common\dto\NotificationResponse.class
+com\testbackend\notification\entity\Notification.class
+com\testbackend\notification\controller\NotificationController.class
+com\testbackend\notification\common\dto\NotificationResponse$NotificationResponseBuilder.class
+com\testbackend\notification\entity\Notification$NotificationBuilder.class

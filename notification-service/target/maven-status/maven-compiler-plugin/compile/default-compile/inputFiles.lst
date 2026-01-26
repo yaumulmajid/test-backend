@@ -1,0 +1,10 @@
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\common\dto\NotificationRequest.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\common\dto\NotificationResponse.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\constant\NotificationStatus.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\constant\NotificationType.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\controller\NotificationController.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\entity\Notification.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\NotificationServiceApplication.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\repository\NotificationRepository.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\service\EmailService.java
+D:\Workload\Test Back End\notification-service\src\main\java\com\testbackend\notification\service\NotificationService.java
