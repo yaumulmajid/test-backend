@@ -1,4 +1,4 @@
-
+# Pertanyaan Dan Jawaban
 ## 2. External Service Resilience
 
 ### a) Dalam kondisi apa retry tidak boleh dilakukan?
