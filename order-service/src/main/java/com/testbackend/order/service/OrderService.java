@@ -6,8 +6,6 @@ import com.testbackend.order.common.dto.*;
 import com.testbackend.order.constant.OrderStatus;
 import com.testbackend.order.entity.Order;
 import com.testbackend.order.repository.OrderRepository;
-import com.testbackend.order.service.common.dto.*;
-
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
