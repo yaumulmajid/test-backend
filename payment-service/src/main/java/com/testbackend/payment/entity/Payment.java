@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 import java.util.UUID;
 
 @Entity
-@Table(name = "payments")
+@Table(name = "mst_payments")
 @Data
 @Builder
 @NoArgsConstructor

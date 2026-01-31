@@ -1,5 +1,7 @@
 server:
   port: 8082
+  servlet:
+    context-path: /order-service
 
 spring:
   application:
@@ -19,7 +21,10 @@ spring:
   h2:
     console:
       enabled: true
+      path: /h2-console
+      settings:
+        web-allow-others: true
 
 payment:
   service:
-    url: http://localhost:8081
+    url:  http://localhost:8081/payment-service

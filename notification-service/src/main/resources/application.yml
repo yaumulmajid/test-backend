@@ -1,5 +1,7 @@
 server:
   port: 8083
+  servlet:
+    context-path: /notification-service
 
 spring:
   application:
@@ -19,6 +21,9 @@ spring:
   h2:
     console:
       enabled: true
+      path: /h2-console
+      settings:
+        web-allow-others: true
   task:
     execution:
       pool:

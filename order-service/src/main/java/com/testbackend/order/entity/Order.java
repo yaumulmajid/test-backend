@@ -22,7 +22,7 @@ import java.util.UUID;
 @AllArgsConstructor
 public class Order {
     @Id
-    @Column(name = "id", columnDefinition = "VARCHAR(36)")
+    @Column(name = "id")
     private UUID id;
 
     @Column(name = "customer_id", nullable = false, length = 50)
